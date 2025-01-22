@@ -1,5 +1,2 @@
 streamlit
-pytube
-youtube_dl
-yt_dlp
 math
