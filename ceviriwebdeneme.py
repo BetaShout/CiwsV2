@@ -1,12 +1,5 @@
 import streamlit as st
 import math
-import pytube
-import youtube_dl
-from pytube import YouTube
-import yt_dlp
-from streamlit import text_input
-import yt_dlp as youtube_dl
-import os
 
 # Sayfa başlığı
 st.set_page_config(page_title="Çok İşlevli Web Site ", page_icon=':flag_tr:')
